@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\c\u002B\u002B\\SnakeGame\\",
+  "WorkspaceRootPath": "D:\\c\u002B\u002B\\cpp-SnakeGame\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7699991C-B342-4A29-AA40-40A548619A10}|SnakeGame.vcxproj|D:\\c\u002B\u002B\\SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{7699991C-B342-4A29-AA40-40A548619A10}|SnakeGame.vcxproj|D:\\c\u002B\u002B\\cpp-SnakeGame\\SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{7699991C-B342-4A29-AA40-40A548619A10}|SnakeGame.vcxproj|solutionrelative:SnakeGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SnakeGame.cpp",
-              "DocumentMoniker": "D:\\c\u002B\u002B\\SnakeGame\\SnakeGame.cpp",
+              "DocumentMoniker": "D:\\c\u002B\u002B\\cpp-SnakeGame\\SnakeGame.cpp",
               "RelativeDocumentMoniker": "SnakeGame.cpp",
-              "ToolTip": "D:\\c\u002B\u002B\\SnakeGame\\SnakeGame.cpp",
+              "ToolTip": "D:\\c\u002B\u002B\\cpp-SnakeGame\\SnakeGame.cpp",
               "RelativeToolTip": "SnakeGame.cpp",
-              "ViewState": "AQIAAGUBAAAAAAAAAAAAAHcBAAABAAAA",
+              "ViewState": "AQIAAGUBAAAAAAAAAAAAAHUBAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-07-16T17:35:15.417Z",
               "EditorCaption": ""
